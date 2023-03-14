@@ -10,6 +10,6 @@ This is a javascript to simulate dyslexia with Thai language supported.
 2. Copy and paste the script into the console.
 
 ## TODO
-- [] Remove dependency with jQuery.
-- [] Write a complete how-to
-- [] ???
+- [ ] Remove dependency with jQuery.
+- [ ] Write a complete how-to
+- [ ] ???
