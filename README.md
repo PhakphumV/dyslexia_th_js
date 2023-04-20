@@ -12,4 +12,8 @@ This is a javascript to simulate dyslexia with Thai language supported.
 ## TODO
 - [ ] Remove dependency with jQuery.
 - [ ] Write a complete how-to
-- [ ] 
+- [ ] Write a contribution guide
+- [ ] Improve dyslexia simulation, inlcuding คำคล้าย และ คำสะกดผิด
+- [ ] Make configurable options such as severity 
+- [ ] Port to an extension in Google Chrome
+- [ ] Port to an extension in Firefox
