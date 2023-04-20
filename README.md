@@ -12,4 +12,4 @@ This is a javascript to simulate dyslexia with Thai language supported.
 ## TODO
 - [ ] Remove dependency with jQuery.
 - [ ] Write a complete how-to
-- [ ] ???
+- [ ] 
